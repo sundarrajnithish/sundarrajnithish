@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Nitish Sundarraj Balaji!
 
-🎓 **Master’s Student in Electrical & Computer Engineering** at Concordia University, passionate about **robotics, automation**, and **software development**.  
+🎓 **Master’s Graduate in Electrical & Computer Engineering** at Concordia University, passionate about **Robotics, Automation**, and **Software Development**.  
 
-💻 **Skills:** Python, C++, MATLAB, Fusion 360, SolidWorks, PLC Programming  
+💻 **Skills:** Python, C++, MATLAB, Fusion 360, AWS, React  
 📚 **Projects:** Telerobotic Manipulator Control, FARM-E Plantation Robot  
 
-🚀 Currently exploring **micro-electronic systems** and **advanced automation**.  
+🚀 Currently exploring **Cloud Computing** and **Systems Integration**.  
 
 📫 **Connect with me:**  
 - [LinkedIn](https://www.linkedin.com/in/sundarrajnithish/)  
