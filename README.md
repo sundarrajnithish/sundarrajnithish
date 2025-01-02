@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nitish Sundarraj Balaji!
+# 👋 Hi, I'm Nitish Sundarraj!
 
 🎓 **Master’s Graduate in Electrical & Computer Engineering** at Concordia University, passionate about **Robotics, Automation**, and **Software Development**.  
 
