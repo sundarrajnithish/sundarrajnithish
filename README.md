@@ -12,4 +12,4 @@
 - [LinkedIn](https://www.linkedin.com/in/sundarrajnithish/)  
 - [Email](mailto:sundarrajnithishca@icloud.com)  
 
-⚡ **Fun Fact:** Fluent in English and French!
+⚡ **Fun Fact:** I am a polyglot!
