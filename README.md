@@ -7,9 +7,3 @@
 📚 **Projects:** Software Marketplace on AWS, Auction System on AWS, Telerobotic Manipulator Control, FARM-E Plantation Robot  
 
 🚀 Currently exploring **Cloud Computing** and **Systems Integration**.  
-
-📫 **Connect with me:**  
-- [LinkedIn](https://www.linkedin.com/in/sundarrajnithish/)  
-- [Email](mailto:sundarrajnithishca@icloud.com)  
-
-⚡ **Fun Fact:** I am a polyglot!
