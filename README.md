@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nitish Sundarraj Balaji
+# 👋 Hi there, I'm Nitish Sundarraj
 
 🎓 Master's candidate in Electrical & Computer Engineering at Concordia University, with a strong foundation in mechatronics, robotics, and automation.
 
@@ -20,7 +20,7 @@
 🤝 Let’s connect:  
 📫 Email: sundarrajnithishca@icloud.com  
 💼 [LinkedIn](https://www.linkedin.com/in/sundarrajnithish)  
-🌐 [Portfolio (Coming soon)]()  
+🌐 [Portfolio](https://www.sundarrajnithish.ca)
 📍 Based in Montréal | Open to collaboration & opportunities  
 
 > 🌱 “Engineering is about making things work—smartly, safely, and sustainably.”  
