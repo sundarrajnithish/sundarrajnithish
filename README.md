@@ -21,6 +21,7 @@
 📫 Email: sundarrajnithishca@icloud.com  
 💼 [LinkedIn](https://www.linkedin.com/in/sundarrajnithish)  
 🌐 [Portfolio](https://www.sundarrajnithish.ca)
+
 📍 Based in Montréal | Open to collaboration & opportunities  
 
 > 🌱 “Engineering is about making things work—smartly, safely, and sustainably.”  
