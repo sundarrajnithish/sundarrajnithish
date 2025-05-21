@@ -16,9 +16,9 @@ I build intelligent systems that integrate embedded hardware, robotics, cloud pl
 ![Python](https://img.icons8.com/color/48/000000/python.png )
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png )
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus.png )
-![MATLAB](https://img.icons8.com/color/48/000000/matlab.png )
-![VHDL](https://img.icons8.com/fluency/48/vhdl.png )
-![Verilog](https://img.icons8.com/fluency/48/system-verilog.png )
+![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
+![VHDL](https://cdn6.aptoide.com/imgs/6/3/1/631fbab7ee9a98187750a0e908f4e01f_icon.png)
+![Verilog](https://static-00.iconduck.com/assets.00/file-type-verilog-icon-1024x1024-1hv3ysgx.png)
 
 ### **Tools & Frameworks**
 - RTL Design & Verification: ModelSim, Quartus, UVM, Formality, Conformal
