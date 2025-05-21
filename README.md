@@ -1,27 +1,50 @@
-# 👋 Hi there, I'm Nitish Sundarraj
+# 👋 Hi, I'm [Your Name]  
+**Electrical & Computer Engineering Graduate | Systems Developer | Robotics & AI Enthusiast**
 
-🎓 Master's candidate in Electrical & Computer Engineering at Concordia University, with a strong foundation in mechatronics, robotics, and automation.
+🎓 *Master of Engineering – Electrical & Computer Engineering*  
+**Concordia University, Montreal, QC**  
 
-🔧 I build smart systems—from autonomous robots and gesture-controlled manipulators to full-stack cloud platforms. My passion lies in integrating hardware and software seamlessly to solve real-world problems.
+I build intelligent systems that integrate embedded hardware, robotics, cloud platforms, and AI to solve real-world problems.
 
-💡 Key skills:
-- Embedded Systems & Automation: Real-time control, sensor integration, PLC programming (Codesys, CIROS)
-- Software Development: Python, JavaScript, C/C++, Flask, React, Git
-- AI & Vision: Deep learning (TensorFlow), OpenCV, 2D/3D object detection
-- Industrial Tools: LabVIEW (basic), Autodesk, SQL/NoSQL databases
-- Cloud & Web: SaaS system design, RESTful APIs, Vite, CI/CD workflows
+🔧 I’m currently open to **internships, full-time roles**, or **collaborations** in automation, robotics, AI, or systems development.
 
-🚀 Projects:
-- **AuctionHub** – SaaS auction platform using cloud APIs and NoSQL
-- **FARM-E** – Autonomous agriculture robot with smart control sequences
-- **Hydroponics Automation** – Smart plant growth system with environmental regulation
-- **Gesture-Based Manipulator** – Embedded + AI project with Firebase, OpenCV
+---
 
-🤝 Let’s connect:  
-📫 Email: sundarrajnithishca@icloud.com  
-💼 [LinkedIn](https://www.linkedin.com/in/sundarrajnithish)  
-🌐 [Portfolio](https://www.sundarrajnithish.ca)
+## 💡 Tech Stack
 
-📍 Based in Montréal | Open to collaboration & opportunities  
+### **Languages**
+![Python](https://img.icons8.com/color/48/000000/python.png )
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png )
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus.png )
+![MATLAB](https://img.icons8.com/color/48/000000/matlab.png )
+![VHDL](https://img.icons8.com/fluency/48/vhdl.png )
+![Verilog](https://img.icons8.com/fluency/48/system-verilog.png )
 
-> 🌱 “Engineering is about making things work—smartly, safely, and sustainably.”  
+### **Tools & Frameworks**
+- RTL Design & Verification: ModelSim, Quartus, UVM, Formality, Conformal
+- Robotics: ROS, Gazebo, MATLAB/Simulink
+- Cloud & DevOps: AWS, Docker, REST APIs
+- Web Dev: React, Node.js, Express
+- AI & Vision: TensorFlow, OpenCV, CNNs
+
+## 📊 Stats & Analytics *(Optional)*
+
+📊 **GitHub Stats:**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username )](https://github.com/sundarrajnithish )  
+[![Stats](https://github-readme-stats.vercel.app/api/?username=your-github-username&show_icons=true )](https://github.com/sundarrajnithish )
+
+---
+
+## 🤝 Connect With Me
+
+📩 Email: [sundarrajnithishca@icloud.com]  
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/sundarrajnithish )  
+🌐 Portfolio: [sundarrajnithish.ca]  
+🐙 GitHub: [@yourgithub](https://github.com/sundarrajnithish )
+
+---
+
+## 🎯 Looking For Opportunities In:
+🤖 Robotics | 🌐 Automation | ☁️ Cloud Systems | 🧠 AI & Machine Learning | 🛠️ Embedded Systems
+
+Let’s build something great together!
