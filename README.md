@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Nitish Sundarraj 
 **Electrical & Computer Engineering Graduate | Systems Developer | Robotics & AI Enthusiast**
 
 🎓 *Master of Engineering – Electrical & Computer Engineering*  
