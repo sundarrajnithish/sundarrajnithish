@@ -12,13 +12,13 @@ I build intelligent systems that integrate embedded hardware, robotics, cloud pl
 
 ## 💡 Tech Stack
 
-### **Languages**
-<img src="https://img.icons8.com/color/48/000000/python.png " alt="Python" width="24" height="24" />
-<img src="https://img.icons8.com/color/48/000000/javascript.png " alt="JavaScript" width="24" height="24" />
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus.png " alt="C++" width="24" height="24" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png " alt="MATLAB" width="24" height="24" />
-<img src="https://cdn6.aptoide.com/imgs/6/3/1/631fbab7ee9a98187750a0e908f4e01f_icon.png " alt="VHDL" width="24" height="24" />
-<img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-1024x1024-1hv3ysgx.png " alt="Verilog" width="24" height="24" />
+Languages
+Python
+JavaScript
+C++
+MATLAB
+VHDL
+Verilog
 
 ### **Tools & Frameworks**
 - RTL Design & Verification: ModelSim, Quartus, UVM, Formality, Conformal
@@ -27,11 +27,10 @@ I build intelligent systems that integrate embedded hardware, robotics, cloud pl
 - Web Dev: React, Node.js, Express
 - AI & Vision: TensorFlow, OpenCV, CNNs
 
-## 📊 Stats & Analytics *(Optional)*
+## 📊 Stats & Analytics
 
 📊 **GitHub Stats:**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username )](https://github.com/sundarrajnithish )  
-[![Stats](https://github-readme-stats.vercel.app/api/?username=your-github-username&show_icons=true )](https://github.com/sundarrajnithish )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundarrajnithish )](https://github.com/sundarrajnithish )  
 
 ---
 
