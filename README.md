@@ -37,7 +37,7 @@ Verilog
 ## 🤝 Connect With Me
 
 📩 Email: [sundarrajnithishca@icloud.com]  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/sundarrajnithish )  
+🔗 LinkedIn: [linkedin.com/in/sundarrajnithish](https://linkedin.com/in/sundarrajnithish )  
 🌐 Portfolio: [sundarrajnithish.ca](https://sundarrajnithish.ca)  
 🐙 GitHub: [sundarrajnithish](https://github.com/sundarrajnithish )
 
