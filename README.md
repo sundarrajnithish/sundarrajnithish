@@ -38,8 +38,8 @@ Verilog
 
 📩 Email: [sundarrajnithishca@icloud.com]  
 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/sundarrajnithish )  
-🌐 Portfolio: [sundarrajnithish.ca]  
-🐙 GitHub: [@yourgithub](https://github.com/sundarrajnithish )
+🌐 Portfolio: [sundarrajnithish.ca](sundarrajnithish.ca)  
+🐙 GitHub: [sundarrajnithish](https://github.com/sundarrajnithish )
 
 ---
 
