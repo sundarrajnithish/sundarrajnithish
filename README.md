@@ -4,6 +4,9 @@
 🎓 *Master of Engineering – Electrical & Computer Engineering*  
 **Concordia University, Montreal, QC**  
 
+🎓 *Bachelor of Technology – Mechatronics Engineering*  
+**SRM Institute of Science and Technology, Chennai, TN**
+
 I build intelligent systems that integrate embedded hardware, robotics, cloud platforms, and AI to solve real-world problems.
 
 🔧 I’m currently open to **internships, full-time roles**, or **collaborations** in automation, robotics, AI, or systems development.
