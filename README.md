@@ -13,12 +13,12 @@ I build intelligent systems that integrate embedded hardware, robotics, cloud pl
 ## 💡 Tech Stack
 
 ### **Languages**
-![Python](https://img.icons8.com/color/48/000000/python.png )
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png )
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus.png )
-![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
-![VHDL](https://cdn6.aptoide.com/imgs/6/3/1/631fbab7ee9a98187750a0e908f4e01f_icon.png)
-![Verilog](https://static-00.iconduck.com/assets.00/file-type-verilog-icon-1024x1024-1hv3ysgx.png)
+<img src="https://img.icons8.com/color/48/000000/python.png " alt="Python" width="24" height="24" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png " alt="JavaScript" width="24" height="24" />
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus.png " alt="C++" width="24" height="24" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png " alt="MATLAB" width="24" height="24" />
+<img src="https://cdn6.aptoide.com/imgs/6/3/1/631fbab7ee9a98187750a0e908f4e01f_icon.png " alt="VHDL" width="24" height="24" />
+<img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-1024x1024-1hv3ysgx.png " alt="Verilog" width="24" height="24" />
 
 ### **Tools & Frameworks**
 - RTL Design & Verification: ModelSim, Quartus, UVM, Formality, Conformal
