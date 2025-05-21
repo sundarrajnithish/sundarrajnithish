@@ -12,12 +12,12 @@ I build intelligent systems that integrate embedded hardware, robotics, cloud pl
 
 ## 💡 Tech Stack
 
-Languages
-Python
-JavaScript
-C++
-MATLAB
-VHDL
+Languages: 
+Python,
+JavaScript,
+C++,
+MATLAB,
+VHDL,
 Verilog
 
 ### **Tools & Frameworks**
