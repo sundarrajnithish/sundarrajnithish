@@ -1,17 +1,4 @@
 # 👋 Hi, I'm Nitish Sundarraj 
-**Electrical & Computer Engineering Graduate | Systems Developer | Robotics & AI Enthusiast**
-
-🎓 *Master of Engineering – Electrical & Computer Engineering*  
-**Concordia University, Montreal, QC**  
-
-🎓 *Bachelor of Technology – Mechatronics Engineering*  
-**SRM Institute of Science and Technology, Chennai, TN**
-
-I build intelligent systems that integrate embedded hardware, robotics, cloud platforms, and AI to solve real-world problems.
-
-🔧 I’m currently open to **internships, full-time roles**, or **collaborations** in automation, robotics, AI, or systems development.
-
----
 
 ## 💡 Tech Stack
 
@@ -30,23 +17,7 @@ Verilog
 - Web Dev: React, Node.js, Express
 - AI & Vision: TensorFlow, OpenCV, CNNs
 
-## 📊 Stats & Analytics
-
-📊 **GitHub Stats:**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundarrajnithish )](https://github.com/sundarrajnithish )  
-
----
-
 ## 🤝 Connect With Me
 
-📩 Email: [sundarrajnithishca@icloud.com]  
 🔗 LinkedIn: [linkedin.com/in/sundarrajnithish](https://linkedin.com/in/sundarrajnithish )  
-🌐 Portfolio: [sundarrajnithish.ca](https://sundarrajnithish.ca)  
-🐙 GitHub: [sundarrajnithish](https://github.com/sundarrajnithish )
-
----
-
-## 🎯 Looking For Opportunities In:
-🤖 Robotics | 🌐 Automation | ☁️ Cloud Systems | 🧠 AI & Machine Learning | 🛠️ Embedded Systems
-
-Let’s build something great together!
+🌐 Portfolio: [sundarrajnithish.ca](https://sundarrajnithish.ca)
